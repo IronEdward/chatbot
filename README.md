@@ -34,4 +34,4 @@ pip install numpy scipy python-rake keras tensorflow
 python chatbot/test.py
 ```
 ## License
-MIT © [Narutatsu Li]()
+MIT © [IronEdward]()
