@@ -30,8 +30,9 @@ pip install numpy scipy python-rake keras tensorflow
 ![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)
  
 ## Screenshots
-![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![](https://github.com/IronEdward/chatbot/blob/master/starting.png)
+![](https://github.com/IronEdward/chatbot/blob/master/started.png)
+![](https://github.com/IronEdward/chatbot/blob/master/waiting_input.png)
 
 
 ## 使用方法
