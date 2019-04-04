@@ -7,7 +7,7 @@
 
 ## ビルドステータス
 
-![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)
+![Build Status]()
 
 
 ## 環境
